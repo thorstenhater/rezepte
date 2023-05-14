@@ -1,1 +1,5 @@
-# rezepte
+# Rezepte
+
+## Kuchen
+
+- [Erdbeerboden](/erdbeer-boden.md)
