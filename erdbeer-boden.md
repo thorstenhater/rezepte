@@ -10,4 +10,4 @@
 # Zubereitung
 1. Mürbeteig
 2. 1h kaltstellen
-3. 15-20 min bei 200 C E-Herd backen
+3. 15-20 min bei 180°C Umluft backen
