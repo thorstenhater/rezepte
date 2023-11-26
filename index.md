@@ -3,7 +3,7 @@
 ## Kuchen
 
 - [Erdbeerboden](/erdbeer-boden.md)
-- [Apfelkuchen](/Apfelkuchen.md)
+- [Apfelkuchen](/apfelkuchen.md)
 
 ## Kekse
 - [Lebkuchen](/lebkuchen.md)
