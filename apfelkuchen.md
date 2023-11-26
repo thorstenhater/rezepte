@@ -1,4 +1,6 @@
-# Zutaten
+# Apfelkuchen
+
+## Zutaten
 
 - 125g Butter
 - 125g Zucker
@@ -10,7 +12,7 @@
 - etwas Milch
 - 750g Äpfel
 
-# Zubereitung
+## Zubereitung
 
 1. Butter mit Zucker schaumig rühren
 2. Eier einzeln unterrühren
